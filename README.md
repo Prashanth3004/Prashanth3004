@@ -273,9 +273,13 @@ troubleshooting.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prashanth3004&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+### Building in Public
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth3004&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+**Cloud Infrastructure · Automation · Kubernetes · DevSecOps**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Prashanth3004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prashanth3004)
 
 </div>
 

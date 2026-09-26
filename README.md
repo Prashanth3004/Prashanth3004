@@ -6,7 +6,11 @@
 
 **Automate → Deploy → Observe → Secure**
 
+Building reliable and scalable cloud infrastructure through
+automation, Infrastructure as Code and continuous delivery.
+
 </div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -21,6 +25,9 @@ software delivery through **Jenkins, GitHub Actions and GitOps practices**.
 I enjoy troubleshooting real-world infrastructure problems,
 automating repetitive tasks, and continuously improving deployment
 and monitoring workflows.
+
+---
+
 ## ⚙️ Engineering Stack
 
 <table>
@@ -87,6 +94,7 @@ and monitoring workflows.
 - SonarQube
 - Trivy
 - tfsec
+- Secure CI/CD practices
 
 </td>
 
@@ -102,3 +110,51 @@ and monitoring workflows.
 </td>
 </tr>
 </table>
+
+---
+
+# 🚀 DevOps Delivery Architecture
+
+```text
+                         SOFTWARE DELIVERY
+
+ Developer
+     │
+     ▼
+  GitHub
+     │
+     ▼
+ ┌───────────┐
+ │  Jenkins  │
+ │ Build/Test│
+ └─────┬─────┘
+       │
+       ▼
+    Docker
+       │
+       ▼
+   AWS ECR
+       │
+       ▼
+ ┌───────────┐
+ │    EKS    │
+ │ Kubernetes│
+ └─────┬─────┘
+       │
+       ▼
+    Argo CD
+       │
+       ▼
+ ┌───────────────┐
+ │ Application   │
+ │   Workloads   │
+ └───────┬───────┘
+         │
+         ▼
+ Prometheus ──► Grafana
+         │
+         ▼
+      Observe
+         │
+         ▼
+ Continuous Improvement

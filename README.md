@@ -245,9 +245,9 @@ troubleshooting.
 
 - ☸️ Advanced Kubernetes
 - ☁️ AWS Cloud Architecture
-- 🏗️ Platform Engineering
-- 🔐 DevSecOps Automation
-- 🤖 AI-assisted DevOps
+- 🤖 AIOps & Intelligent Infrastructure
+- 🧠 MLOps & ML Workflows
+- 🛠️ Building an AI Agent for DevOps Automation
 
 ---
 
